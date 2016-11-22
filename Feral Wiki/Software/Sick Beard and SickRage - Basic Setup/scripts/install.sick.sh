@@ -100,7 +100,7 @@ gitiourl="git.io/vfGch"
 gitiocommand="wget -qO ~/$scriptname $gitiourl && bash ~/$scriptname"
 #
 # This is the raw github url of the script to use with the built in updater.
-scripturl="https://raw.githubusercontent.com/feralhosting/feralfilehosting/master/Feral%20Wiki/Software/Sick%20Beard%20and%20SickRage%20-%20Basic%20Setup/scripts/install.sick.sh"
+scripturl="https://github.com/Dedsec01/feralfilehosting/raw/master/Feral%20Wiki/Software/Sick%20Beard%20and%20SickRage%20-%20Basic%20Setup/scripts/install.sick.sh"
 #
 # This will generate a 20 character random passsword for use with your applications.
 apppass="$(< /dev/urandom tr -dc '1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz' | head -c20; echo;)"
