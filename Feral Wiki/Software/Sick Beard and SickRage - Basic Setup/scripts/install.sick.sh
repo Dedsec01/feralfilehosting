@@ -159,7 +159,7 @@ updaterenabled="1"
 showMainMenu () 
 {
     echo "1) Install Sickbeard"
-    echo "2) Install SickRage"
+    echo "2) Install Medusa"
     echo "3) Quit the script"
     echo
 }
