@@ -139,7 +139,7 @@ unrarv="5.3.9"
 unrarfv="http://www.rarlab.com/rar/unrarsrc-5.3.9.tar.gz"
 #
 giturlsickbeard="https://github.com/midgetspy/Sick-Beard.git"
-giturlsickrage="https://github.com/SickRage/SickRage.git"
+giturlsickrage="https://github.com/pymedusa/Medusa.git"
 #
 ############################
 ### Custom Variables End ###
