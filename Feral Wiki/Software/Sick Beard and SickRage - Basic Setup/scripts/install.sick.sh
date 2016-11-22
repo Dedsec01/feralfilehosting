@@ -4,7 +4,7 @@
 ##### Basic Info Start #####
 ############################
 #
-# Script Author: userdocs
+# Script Author: DedSec_ Secure your shit
 #
 # Script Contributors: 
 #
