@@ -146,7 +146,7 @@ giturlsickrage="https://github.com/pymedusa/Medusa.git"
 ############################
 #
 # Disables the built in script updater permanently by setting this variable to 0.
-updaterenabled="1"
+updaterenabled="0"
 #
 ############################
 ####### Variable End #######
